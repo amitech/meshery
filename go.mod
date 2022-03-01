@@ -13,7 +13,7 @@ replace (
 )
 
 require (
-	fortio.org/fortio v1.17.0
+	fortio.org/fortio v1.21.0
 	git.mills.io/prologic/bitcask v0.3.14
 	github.com/99designs/gqlgen v0.14.0
 	github.com/asaskevich/govalidator v0.0.0-20200907205600-7a23bdc65eef
@@ -63,9 +63,8 @@ require (
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/exp v0.0.0-20200331195152-e8c3332aa8e5 // indirect
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
-	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
 	gonum.org/v1/gonum v0.9.3
-	google.golang.org/grpc v1.41.0
+	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/gorm v1.21.14
