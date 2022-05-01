@@ -45,7 +45,6 @@ require (
 	github.com/lib/pq v1.10.2
 	github.com/lunixbochs/vtclean v1.0.0 // indirect
 	github.com/manifoldco/promptui v0.8.0
-	github.com/mattn/go-isatty v0.0.13 // indirect
 	github.com/nsf/termbox-go v1.1.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/browser v0.0.0-20210706143420-7d21f8c997e2
@@ -56,17 +55,15 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.8.1
+	github.com/spf13/viper v1.11.0
 	github.com/tcnksm/go-latest v0.0.0-20170313132115-e3007ae9052e
 	github.com/vektah/gqlparser/v2 v2.2.0
 	github.com/vmihailenco/taskq/v3 v3.0.0-beta.9.0.20200519124923-d9823546b85a
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/exp v0.0.0-20200331195152-e8c3332aa8e5 // indirect
-	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
-	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
+	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	gonum.org/v1/gonum v0.9.3
-	google.golang.org/grpc v1.41.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/grpc v1.45.0
+	google.golang.org/protobuf v1.28.0
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/gorm v1.21.14
 	k8s.io/api v0.21.0
